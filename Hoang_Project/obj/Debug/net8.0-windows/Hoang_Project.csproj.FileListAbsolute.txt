@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\bin\Debug\net8.0-windows\Hoang_Project.exe
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\bin\Debug\net8.0-windows\Hoang_Project.deps.json
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\bin\Debug\net8.0-windows\Hoang_Project.runtimeconfig.json
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\bin\Debug\net8.0-windows\Hoang_Project.dll
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\bin\Debug\net8.0-windows\Hoang_Project.pdb
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\obj\Debug\net8.0-windows\Hoang_Project.Form1.resources
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\obj\Debug\net8.0-windows\Hoang_Project.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\obj\Debug\net8.0-windows\Hoang_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\obj\Debug\net8.0-windows\Hoang_Project.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\obj\Debug\net8.0-windows\Hoang_Project.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\obj\Debug\net8.0-windows\Hoang_Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\obj\Debug\net8.0-windows\Hoang_Project.dll
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\obj\Debug\net8.0-windows\refint\Hoang_Project.dll
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\obj\Debug\net8.0-windows\Hoang_Project.pdb
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\obj\Debug\net8.0-windows\Hoang_Project.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\obj\Debug\net8.0-windows\ref\Hoang_Project.dll

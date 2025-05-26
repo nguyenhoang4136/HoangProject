@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_App\Hoang_Project.exe
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_App\Hoang_Project.dll
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_App\Hoang_Project.deps.json
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_App\Hoang_Project.runtimeconfig.json
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_App\Hoang_Project.pdb

@@ -1,0 +1,23 @@
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\obj\Release\net8.0-windows7.0\Hoang_Project.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\obj\Release\net8.0-windows7.0\Hoang_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\obj\Release\net8.0-windows7.0\Hoang_Project.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\obj\Release\net8.0-windows7.0\Hoang_Project.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\obj\Release\net8.0-windows7.0\Hoang_Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\obj\Release\net8.0-windows7.0\Hoang_Project.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\bin\Release\net8.0-windows7.0\Hoang Application.exe
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\bin\Release\net8.0-windows7.0\Hoang Application.deps.json
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\bin\Release\net8.0-windows7.0\Hoang Application.runtimeconfig.json
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\bin\Release\net8.0-windows7.0\Hoang Application.dll
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\bin\Release\net8.0-windows7.0\Hoang Application.pdb
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\obj\Release\net8.0-windows7.0\Hoang Application.dll
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\obj\Release\net8.0-windows7.0\refint\Hoang Application.dll
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\obj\Release\net8.0-windows7.0\Hoang Application.pdb
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\obj\Release\net8.0-windows7.0\ref\Hoang Application.dll
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\obj\Release\net8.0-windows7.0\Hoang_Project.Properties.Resources.resources
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\obj\Release\net8.0-windows7.0\Hoang_Project.MainApp.resources
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\bin\Release\net8.0-windows7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\bin\Release\net8.0-windows7.0\Npgsql.dll
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\obj\Release\net8.0-windows7.0\Hoang_Project.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\obj\Release\net8.0-windows7.0\Hoang_Pr.89AF2013.Up2Date
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\obj\Release\net8.0-windows7.0\Hoang_Project.ChildForm.QuanLyChiTieu.resources
+C:\Users\Admin\Desktop\Hoang_Project\Hoang_Project\bin\Release\net8.0-windows7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
