@@ -1,3 +1,4 @@
 ThrallTool: https://drive.google.com/drive/folders/1gGfiz2aTSVim9EJm3wlPHWam0Owrm73j
 AutoClick: https://drive.google.com/drive/folders/1tK0DZBEUUJitjiMHJcYuHAMhM7nCPNZ8?usp=sharing
-ThrallWeb: https://drive.google.com/drive/folders/15BJ-pGl3_713zQBX4YApmJceizHnUZ8-?usp=sharing
+TestWeb: https://drive.google.com/drive/folders/15BJ-pGl3_713zQBX4YApmJceizHnUZ8-?usp=sharing
+Web: https://drive.google.com/file/d/1NO4EoxHDqoa3s_51VwAwARlkExwdEgoz/view?usp=sharing
